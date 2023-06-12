@@ -1295,6 +1295,7 @@ article .content .caption {
 #footer {
   position: absolute;
   bottom: 0;
+  margin-top: 10px;
   margin-bottom: 10px;
   width: 100%;
   color: #908d8d;
@@ -1316,6 +1317,7 @@ article .content .caption {
 }
 #footer li a {
   margin-right: 15px;
+  color: #ff6;
 }
 #footer li:last-child {
   margin-right: 0;
